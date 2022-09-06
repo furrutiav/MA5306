@@ -97,15 +97,16 @@ def plot_docs_per_source(df_biblio):
     fig.show(renderer="notebook")
 
 replace_acronyms = {
-    "BHCP": ["backward", "heat", "conduction", "problem"],
-    "LGSM": ["lie", "group", "shoot", "method"],
-    "GPS": ["group", "preserve", "scheme"],
-    "TCC": ["thermal", "contact", "conductance"],
-    "IHCP": ["inverse", "heat", "conduction", "problem"],
-    "CGM": ["conjugate", "gradient", "method"],
-    "PSO": ["particle", "swarm", "optimization"],
-    "IHTP": ["inverse", "heat", "transfer", "problem"], 
-    "BEM": ["boundary", "element", "method"],
+    "bhcp": ["backward", "heat", "conduction", "problem"],
+    "lgsm": ["lie", "group", "shoot", "method"],
+    "gps": ["group", "preserve", "scheme"],
+    "tcc": ["thermal", "contact", "conductance"],
+    "ihcp": ["inverse", "heat", "conduction", "problem"],
+    "cgm": ["conjugate", "gradient", "method"],
+    "pso": ["particle", "swarm", "optimization"],
+    "ihtp": ["inverse", "heat", "transfer", "problem"], 
+    "bem": ["boundary", "element", "method"],
+    "smrpi": ["spectral", "meshless", "radial", "point", "interpolation"],
 }
 replace_tokens = {
 }
