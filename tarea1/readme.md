@@ -9,9 +9,9 @@
 
 **Auxiliar:** Jorge Aguayo
 
-## Topics
+## Topicos
 <img width="800" src="citation_net.png">
 
-## Numerical results
+## Resultados numéricos
 
 * [Ejemplo Problema inverso de la ecuacion del calor](Ejemplo%20Problema%20inverso%20de%20la%20ecuacion%20del%20calor.ipynb)
